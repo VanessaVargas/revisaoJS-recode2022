@@ -21,4 +21,12 @@ function confirma() {
 }
 */
 
+let usuario = "Vanessa";
+let senha = 1234;
+
+if (usuario == "Vanessa" || senha == 1235) {
+    console.log ("Usuário autenticado");
+} else {
+    console.log ("Erro de autenticação");
+}
 
