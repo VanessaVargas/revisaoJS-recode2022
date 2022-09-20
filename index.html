@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revisão JS</title>
+</head>
+<body>
+    <!-- INSERIDO NO ELEMENTO -->
+    <button type="button" onclick='document.write("Teste JS -> Aperte F5")'>Clique aqui!</button>
+    
+    <!-- INSERÇÃO INTERNA -->
+    <button type="button" onclick= exibeMensagem()>Clique aqui também!</button>
+    <script>
+        function exibeMensagem() {
+            document.write ("Outro teste -> Aperte F5 novamente")
+        }
+    </script>
+
+    <!-- INSERÇÃO EXTERNA -->
+    <button type="button" onclick= outraMensagem()>Clique neste!</button>
+
+    <!-- CAIXA DE MENSAGEM CONFIRM -->
+    <button type="button" onclick=confirma()>Abre o confirm</button>
+
+    <script src="./script.js"></script>
+
+</body>
+</html>
