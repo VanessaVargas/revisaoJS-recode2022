@@ -8,4 +8,5 @@ Revisão em JS realizada em monitoria Recode 2022
 - tipos de dados (https://acervolima.com/operadores-de-javascript/Operadores)
 - operadores (https://acervolima.com/operadores-de-javascript/)
 - operador typeof (http://devfuria.com.br/javascript/typeof/)
-- estruturas de repetição
+- estruturas de repetição (if/else, switch e os loops (while e for))
+
