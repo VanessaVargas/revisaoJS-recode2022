@@ -21,3 +21,5 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 - funções - com e sem retorno, arrow function
 - o que saber de JS antes do React (https://ateliware.com/blog/javascript-react#:~:text=O%20React%20%C3%A9%20a%20biblioteca,vers%C3%B5es%20mais%20modernas%20de%20JavaScript.), (https://www.youtube.com/watch?v=37SwqREHRGI)
 
+<hr>
+Feito com ❤️ por VanessaVargas
