@@ -1,10 +1,12 @@
-# revisaoJS-recode2022
-Revisão em JS realizada em monitoria Recode 2022
+# Projeto de monitoria - Javascript
+
+Revisão de Javascript realizada em monitoria. Repositório criado para fins de estudos durante o programa Recode Pro, em Setembro de 2022.
 
 - fontes (documentação):
 https://www.w3schools.com/js/default.asp
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 
+### Conteúdo abordado:
 - 3 formar de inserir o JS
 - console e log
 - caixa de mensagem: alert, prompt e confirm 
